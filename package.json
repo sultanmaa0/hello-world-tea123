@@ -1,0 +1,29 @@
+{
+  "name": "hello-world-tea123",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanmaa0/hello-world-tea123"
+  },
+  "keywords": [
+    "hello-world-tea123"
+  ],
+  "publishConfig": {
+  "@sultanmaa0:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+  "express": "^4.17.1",
+  "lodash": "^4.17.21"
+  },
+  "author": "sultanmaa0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultanmaa0/hello-world-tea123/issues"
+  },
+  "homepage": "https://github.com/sultanmaa0/hello-world-tea123#readme"
+}
